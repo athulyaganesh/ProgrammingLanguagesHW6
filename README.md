@@ -1,6 +1,6 @@
 # ProgrammingLanguagesHW6
 
-This is Group 6's solution for the Producer Consumer Multithreading problem for CS 3003. We attempted our solution in Python. 
+This is Group 8's solution for the Producer Consumer Multithreading problem for CS 3003. We attempted our solution in Python. 
 
 We have used four classes- 
 a. Item
